@@ -74,6 +74,7 @@
                                     <input type="text" name="username" class="form-control" id="floatingUsername" placeholder="Username">
                                     <label for="floatingUsername">Username</label>
                                 </div>
+<!--sua code-->
                                 <div class="form-floating mb-3">
                                     <input type="email" name="email" class="form-control" id="email" placeholder="name@example.com" value="${param.email}">
                                     <label for="email">Your Email</label>
